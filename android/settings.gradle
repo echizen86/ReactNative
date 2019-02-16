@@ -1,0 +1,3 @@
+rootProject.name = 'TuOferta'
+
+include ':app'
